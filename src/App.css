@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+/* .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+} */
+
+.App-header {
+  /* background-color: #FFAB91; */
+  background-image: url('./images/cardhead.JPG');
+  background-size: cover;
+  text-align: left;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.7em;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.App-intro {
+  font-size: large;
+}
+/* 
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
