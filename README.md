@@ -1,3 +1,7 @@
+Kickstarter clone made using reactJS in 8 hours for a online competition. Pure REACT is used without any prior experience. Made in the process of learning ReactJS and React Native.
+
+![alt text](https://github.com/aavgeen1/kickstarterClone-reactjs/blob/master/home.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
